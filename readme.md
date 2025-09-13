@@ -4,7 +4,7 @@
 
 - **Name:** Melita Nelson
 - **Project Board (Project v2):** <https://github.com/users/mbnelso1/projects/1/views/1>
-- **Live Portfolio (GitHub Pages):** <https://mbnelso1.github.io/REPO/>
+- **Live Portfolio (GitHub Pages):** <https://mbnelso1.github.io/csci4208-portfolio-2025/>
 
 ---
 
@@ -100,6 +100,7 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
 
