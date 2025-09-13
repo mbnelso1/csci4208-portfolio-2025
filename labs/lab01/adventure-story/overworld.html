@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title> Adventure Game </title>
+	<link rel="icon" href="assets/dragon-logo.png" />
+</head>
+<body>
+	<h1>Overworld</h1>
+	<hr>
+	<img src='assets/overworld-map.gif' width="480" />
+	<h4>Where do you want to go?</h4>
+	<ul>
+	<li> <a id='dungeon' href='dungeon.html'> Dungeon </a> </li>
+	<li> <a id='forest' href='forest.html'> Forest </a> </li>
+	<li> <a id='shoppe' href='shoppe.html'> Shoppe </a> </li>
+	</ul>
+	<hr>
+	<iframe src='inventory.html' id=inventory height=100 width=125></iframe>
+	<script> 
+		inventory.src += location.search; //concat the search parameter to the iframe's src attribute
+		shoppe.href += location.search; //concat the search parameter to the anchor's href attribute
+		forest.href += location.search; //concat the search parameter to the anchor's href attribute
+		dungeon.href += location.search; //concat the search parameter to the anchor's href attribute
+	</script>
+	<h1> Story Introduction </h1>
+	<hr>
+	<img src='assets/intro.gif' width="360">
+	<p> Welcome traveler. Our land is plagued by a great evil. Please save us. Here take 5 gold as a deposit. </p>
+	<h4>
+	<a href='overworld.html?gp=5&hp=3&ap=1&keys=0'>Adventure out of town</a>
+	</h4>
+</body>
+<html>
