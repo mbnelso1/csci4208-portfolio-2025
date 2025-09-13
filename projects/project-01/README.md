@@ -5,9 +5,9 @@
 
 
 # How to Demo 
-## 1.Go to the Live URL above 
-## 2.Click “Enter” on the landing page.
-## 3.Make choices to advance through levels. Each level completion rewards one token. Once all 3 are collected, you can exit.
+## 1. Go to the Live URL above 
+## 2. Click “Enter” on the landing page.
+## 3. Make choices to advance through levels. Each level completion rewards one token. Once all 3 are collected, you can exit.
 
 # NOTE: If you make the wrong choice, you will have to restart the level.
 
