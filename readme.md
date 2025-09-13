@@ -2,8 +2,8 @@
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Melita Nelson
-- **Project Board (Project v2):** <(https://github.com/users/mbnelso1/projects/1/views/1)>
+- **Name:** Melita Nelson
+- **Project Board (Project v2):** <https://github.com/users/mbnelso1/projects/1/views/1>
 - **Live Portfolio (GitHub Pages):** <https://mbnelso1.github.io/REPO/>
 
 ---
@@ -100,5 +100,6 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
