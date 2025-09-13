@@ -11,3 +11,13 @@
 
 # NOTE: If you make the wrong choice, you will have to restart the level.
 
+## Feature Checklist
+- [ ] Landing page with Start.
+- [ ] Three paths (Lion, Scarecrow, Tin Man).
+- [ ] Collect all three tokens.
+- [ ] Inventory updates and persists (URL params).
+- [ ] Finale unlocks only when all tokens are collected.
+- [ ] Restart link resets progress.
+- [ ] Single external CSS; mobile-friendly; basic accessibility.
+
+![Midnight Theater — landing page](https://raw.githubusercontent.com/mbnelso1/project-01--Midnight-/main/docs/screenshot.png)
