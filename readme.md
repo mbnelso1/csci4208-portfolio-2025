@@ -83,11 +83,11 @@
 
 ---
 
-## 🧰 Handy links
+## Handy links
+- Project board: https://github.com/users/mbnelso1/projects/1/views/1
+- Live portfolio: https://mbnelso1.github.io/csci4208-portfolio-2025/
+- Instructor roadmap (source of truth): https://github.com/scalemailted/csci4208-portfolio-2025
 
-- **Project board:** <paste URL>  
-- **Live portfolio:** <paste URL>  
-- **Instructor roadmap (source of truth):** <link to instructor repo or roadmap.json>
 
 ---
 
@@ -100,6 +100,7 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
 
