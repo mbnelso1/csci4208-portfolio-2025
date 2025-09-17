@@ -1,1 +1,1 @@
-
+CSS is used to style html web pages. It allows for full control over the visual appearance of a webpage and various combinations which means we can create a website that  is unique in appearance. We can also apply these styles to multiple pages, making it easy to have consistent styling choices across an entire project using just one css page. 
