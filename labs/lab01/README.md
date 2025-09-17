@@ -1,1 +1,1 @@
-
+HTML is a relatively simple markup language with an easy-to-understand structure. I appreciate the structure, specifically having a head and body section that actually describes the head and body of the actual websites. HTML makes it easy to create multipage websites with easy linking to other pages. I have taken a class in HTML years ago, and was not aware that JavaScript could be added to increase the complexity of the website being built. 
