@@ -1,1 +1,1 @@
-
+In lab 3, we learned about bootstrap, which allows for web page layout to respond based on the size of the screen. This eliminates the need for a specific screen size requirement to view a webpage, regardless of whether it is being viewed on a computer screen or phone screen (or anything in between). 
