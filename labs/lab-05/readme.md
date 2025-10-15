@@ -1,1 +1,1 @@
-
+Lab 5 was challenging but entertaining. I found the most challenging parts to be towards the end, where we had to beat certain portions of the game to test the correctness of our code. I spent a decent amount of time trying to collect the power-ups. I really enjoyed animating the game. Although these animations were simple, implementing movement added so much depth to the game.  
