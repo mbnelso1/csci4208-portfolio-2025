@@ -45,8 +45,8 @@
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#15](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/15) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#14](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/14) | `lab-05` | open |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#9](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/9) | `lab-05` | open |
-| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/7) | `lab-05` | open |
-| Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/10) | `lab-06` | open |
+| Lab-05 — JavaScript OOP + Phaser: Dodger Game [#7](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/7) | `lab-05` | closed |
+| Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/10) | `lab-06` | closed |
 | Lab-07 — Browser Data Layer: Mock Document DB [#28](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/28) | `lab-07` | open |
 | Project-0 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/8) | `project-00` | closed |
 | Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/mbnelso1/csci4208-portfolio-2025/issues/4) | `project-01` | closed |
