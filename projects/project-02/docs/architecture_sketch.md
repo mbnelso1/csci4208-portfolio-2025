@@ -1,0 +1,5 @@
+- React SPA with three routes (/inbox, /rank, /done). 
+- Client state lives in a Store (persistence + pub/sub), tasks are plain TaskModels, and a PriorityEngine runs a human-driven merge sort with a comparison cache, binary inserts, and cycle detection. 
+- Data shape: {tasks, order, compare, settings} saved locally (localStorage/IndexedDB) for offline-first boot and instant re-renders. 
+- A small public GET (focus tips) is fetched with async/await, shows loading/empty/error, and uses a 15-min TTL cache. 
+- For cloud, I will PUT/GET a public JSONBin rankingSnapshot (non-sensitive), applying last-write-wins by updated_at, de-duping by id, and normalizing ranks to 1..N.
