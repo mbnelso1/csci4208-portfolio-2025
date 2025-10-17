@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-17T00:00:00Z",
+  "tips": [
+    { "id": "t-focus-01", "text": "Pick one 'north star' task for the next hour." },
+    { "id": "t-focus-02", "text": "Batch tiny tasks after your top item." },
+    { "id": "t-focus-03", "text": "If two tasks tie, choose the one that unblocks others." }
+  ]
+}
